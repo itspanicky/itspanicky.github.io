@@ -175,6 +175,12 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+.resume-link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #3f6386;
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
