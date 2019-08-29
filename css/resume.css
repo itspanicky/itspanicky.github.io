@@ -176,9 +176,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .resume-link {
+  color: #3f6386;
+  border: 1px solid #3f6386;
+  border-radius: 15px;
+  background-color: salmon;
+  padding: 0px 10px;
+}
+
+.resume-link:hover {
+  color: salmon;
+  background-color: #3f6386;
+  border: 1px solid salmon;
   text-decoration: underline;
   font-weight: bold;
-  color: #3f6386;
 }
 
 .bg-primary {
