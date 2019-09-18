@@ -3387,6 +3387,10 @@ input, select, textarea {
 		z-index: 100;
 	}
 
+	.logo-spacing {
+		padding: 0 10px;
+	}
+
 		#header h1 {
 			height: inherit;
 			left: 1.25em;
